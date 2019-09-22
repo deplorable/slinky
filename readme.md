@@ -1,6 +1,6 @@
 ![](./slinky.png)
 
-# Slinky
+# Slinky for Hub Folders (fork of the original "Slinky")
 
 Rather sweet menus
 
